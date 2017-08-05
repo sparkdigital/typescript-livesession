@@ -83,8 +83,3 @@ build/Release
 
 # Dependency directory
 node_modules
-
-# Vangary ######################################################################
-
-# Dist directory
-dist

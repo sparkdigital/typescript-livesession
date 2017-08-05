@@ -1,0 +1,12 @@
+{
+  "name": "demo-5.jsx-to-tsx",
+  "version": "0.0.1",
+  "description": "JSX Demo for TypeScript Live Session",
+  "main": "main.js",
+  "author": "Lucas Ciruzzi <hello@lukeshiru.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.0",
+    "react": "^15.6.1"
+  }
+}

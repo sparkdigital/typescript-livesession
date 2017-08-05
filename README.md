@@ -15,3 +15,8 @@ Strict mode in TypeScript and the beauty behind it.
 ## Demo 4: Non OOP
 
 So you like Functional Programming ...
+
+## Demo 5: JSX
+
+Because there is always that React fanboy dude.
+
